@@ -1,0 +1,14 @@
+platform :ios, '7.0'
+target 'inrtest' do
+
+pod 'RDVTabBarController'
+pod 'Masonry'
+pod 'SVProgressHUD'
+pod 'AFNetworking'
+pod 'SDCycleScrollView'
+pod 'WMPageController'
+pod 'MJRefresh'
+pod 'SDWebImage'
+pod 'MJExtension'
+
+end

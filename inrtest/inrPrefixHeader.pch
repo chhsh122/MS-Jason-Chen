@@ -1,0 +1,32 @@
+//
+//  inrPrefixHeader.pch
+//  inrtest
+//
+//  Created by 张涛 on 16/5/10.
+//  Copyright © 2016年 张涛. All rights reserved.
+//
+
+#ifndef inrPrefixHeader_pch
+#define inrPrefixHeader_pch
+
+#import "NSDate+INTDate.h"
+#import <Masonry/Masonry.h>
+#import <SVProgressHUD.h>
+#import <MapKit/MapKit.h>
+#import "Utils.h"
+#import "gobalConfig.h"
+#import "ALCommonMarco.h"
+#import "Config.h"
+#import <MJRefresh.h>
+#import <SDWebImage/UIImageView+WebCache.h>
+#import <CoreLocation/CoreLocation.h>
+#import <SDWebImage/UIImageView+WebCache.h>
+#import "CPNetWorkRequest.h"
+#import <MJExtension.h>
+#import "CPNetWorkConfig.h"
+#import "AppServiceInterface.h"
+#import "GlobalUnit.h"
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* inrPrefixHeader_pch */

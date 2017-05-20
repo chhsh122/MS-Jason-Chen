@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D3150D5E9A60B0EE5BD3E900D477F645BC630E5B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D3150D5E9A60B0EE5BD3E900D477F645BC630E5B" : 9223372036854775807,
+    "2FBFD8C17E001C389118052D78940D465D96E4EA" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2E62C4A9-5B3C-43C8-8A11-883085D32425",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D3150D5E9A60B0EE5BD3E900D477F645BC630E5B" : "106%E5%BD%A9%E7%A5%A8-%E6%9C%80%E7%83%AD%E5%BD%A9%E7%A5%A8%E8%B5%84%E8%AE%AF\/",
+    "2FBFD8C17E001C389118052D78940D465D96E4EA" : "nillLottory\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "inrtest",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "inrtest.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.coding.net\/chhsh122\/NillLottory.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2FBFD8C17E001C389118052D78940D465D96E4EA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.coding.net\/4bbbb\/completePro.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D3150D5E9A60B0EE5BD3E900D477F645BC630E5B"
+    }
+  ]
+}
